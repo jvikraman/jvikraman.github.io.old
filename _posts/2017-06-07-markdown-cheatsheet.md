@@ -4,8 +4,6 @@ title: Markdown Cheatsheet
 permalink: markdown-cheatsheet
 ---
 
-# Markdown Cheatsheet
-
 When writing content using markdown, I often forget about the syntax in general & the nuances of the language. So I did myself a favor and created a customized markdown cheatsheet over at Github.
 
 Since I already have that in a github repo - why duplicate it here.
