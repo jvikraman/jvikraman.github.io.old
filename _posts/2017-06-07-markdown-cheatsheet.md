@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Markdown Cheatsheet
-permalink: markdown-cheatsheet
+title: 📚 Markdown Reference
+permalink: markdown-reference
 ---
 
-When writing content using markdown, I often forget about the syntax in general & the nuances of the language. So I did myself a favor and created a customized markdown cheatsheet over at Github.
+If you haven't used markdown for a while, it's common that you forgot the syntax and the nuances of the language 🙄. Frankly speaking, with markdown, there's more than one way to achieve an outcome for e.g. headings
 
-Since I already have that in a github repo - why duplicate it here.
+I know what you're saying...for god's sake, why don't you have a quick reference guide or something and that's exactly what i did over in Github.
 
-Here's the link to the repo -> [Markdown Cheatsheet](https://github.com/jvikraman/markdown-cheatsheet)
+Here you go -> [Markdown Cheatsheet](https://github.com/jvikraman/markdown-cheatsheet)
 
-Enjoy :)
+🤗 Phew! one less thing to worry about.
